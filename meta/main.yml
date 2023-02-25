@@ -30,5 +30,3 @@ galaxy_info:
     - php
     - web
 
-dependencies:
-  - role: robertdebock.httpd
